@@ -2,7 +2,8 @@
   "meta": {
     "username": "juansann",
     "repositoryName": "juansann.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": ""
   },
   "theme": {
     "name": "casper"
@@ -27,5 +28,31 @@
       null
     ],
     "_Ctor": {}
-  }
+  },
+  "site": {
+    "title": "",
+    "description": "",
+    "logo": "https://www.creditosrapidos10min.com/wp-content/themes/creditosrapidos10min/images/creditos-rapidos-10-minutos.png",
+    "cover": "",
+    "delay": "",
+    "postsPerPage": "",
+    "blogPath": "",
+    "googleAnalytics": "",
+    "disqus": ""
+  },
+  "socialnetwork": {
+    "email": "",
+    "github": "",
+    "twitter": "",
+    "facebook": "",
+    "googleplus": "",
+    "instagram": "",
+    "pinterest": "",
+    "flickr": "",
+    "linkedin": "",
+    "stackoverflow": "",
+    "paypalme": "",
+    "opencollective": ""
+  },
+  "navigation": []
 }
